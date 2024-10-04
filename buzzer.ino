@@ -9,7 +9,7 @@
 
 char ssid[] = SECRET_SSID;
 char password[] = SECRET_PASSWORD;
-char serverAdress[] = "192.168.50.248";
+char serverAdress[] = "";
 int port = 8080;
 
 WiFiClient wifi;
