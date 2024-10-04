@@ -1,2 +1,2 @@
-#define SECRET_SSID "ASUSRT-AX82U"
-#define SECRET_PASSWORD "Fjortis4!"
+#define SECRET_SSID ""
+#define SECRET_PASSWORD ""
